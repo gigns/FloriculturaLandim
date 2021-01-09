@@ -11,14 +11,18 @@
 
 /* BANNER */
 
-.banner-section {
-    background-color:#ffb3ff
+.banner-imagem {
+    position: absolute;
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
 }
 
 .site-main .banner-section h1 p:nth-child(1) {
     font-size: 40px;
     color: green;
-    margin: 50px 0 0 50px;
+    margin: 90px 0 0 50px;
     font-family: 'Sriracha', cursive;
 }
 
